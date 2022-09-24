@@ -40,3 +40,14 @@ fun main() {
    println(rawString)
 }
 ```
+
+Boolean Data Type
+```
+fun main() {
+   val meAnAwesomePerson: Boolean = true
+   val boringSession: Boolean = false
+
+   println(meAnAwesomePerson)
+   println(boringSession)
+}
+```
